@@ -14,3 +14,5 @@ JavaScript с использованием библиотеки React
 Axios библиотека для GET, POST, DELETE
 
 mockAPI
+
+host GitHub pages
